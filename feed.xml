@@ -3,7 +3,7 @@
     <title>Leaks UABC</title>
     <link href="https://leaksuabc.github.io/home/feed.xml" rel="self" />
     <link href="https://leaksuabc.github.io/home" />
-    <updated>2022-04-06T10:30:45-07:00</updated>
+    <updated>2022-04-06T11:31:58-07:00</updated>
     <author>
         <name>unknown</name>
     </author>
@@ -64,7 +64,7 @@
         <link href="https://leaksuabc.github.io/home/protocolo-de-denuncia.html"/>
         <id>https://leaksuabc.github.io/home/protocolo-de-denuncia.html</id>
 
-        <updated>2022-04-06T10:30:45-07:00</updated>
+        <updated>2022-04-06T11:31:58-07:00</updated>
             <summary>
                 <![CDATA[
                     Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para Leaks UABC es importante que sepas qué hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes&hellip;
@@ -94,7 +94,7 @@
 </li>
 </ul>
 </li>
-<li>Ahora tómate el tiempo de redactar de manera clara una respuesta para las siguientes preguntas:
+<li>Ahora tómate el tiempo de redactar de contestar claramente las siguientes preguntas:
 <ul>
 <li style="list-style-type: none;">
 <ul>
@@ -118,8 +118,8 @@
 </li>
 </ul>
 </li>
-<li>Una vez que tengas la redacción y las evidencias, es necesario bajar el software TOR y entrar a la plataforma anónimizada para enviar tu texto y tu evidencia. </li>
-<li>Si deseas te contactemos en el futuro para algun seguimiento, cuando envíes el texto, deja ahí tu correo, en caso contrario no habrá nada que te conecte a la denuncia. </li>
+<li>Para presentar la denuncia deberás bajar el software TOR Browser y entrar a la plataforma anónimizada para enviar tu texto y tu evidencia. </li>
+<li>Una vez enviada la denuncia obtendra un codigo con el cual podrás dar seguimiento o agregar comentarios a tu denuncia, copialo y guardalo en un lugar seguro. </li>
 </ol>
 <p>Eso es todo, a continuación de dejamos los pasos necesarios para acceder a la red TOR y enviar tu mensaje:</p>
 <h2>Preparación del Software</h2>
@@ -130,21 +130,31 @@
 </ol>
 <h2>Envía denuncia en tu computadora:</h2>
 <ol>
-<li>Una vez que lo abras</li>
-<li>Presiona el boton de conectar</li>
-<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Copia la siguiente liga y pégala en el navegador </span><span style="text-decoration: underline;">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></span></li>
-<li>Presiona Browse para adjuntar las evidencias en caso de contar con ellas. </li>
-<li>Escribe tu denuncia en el espacio de abajo y presiona el botón enviar. </li>
+<li>Abre TOR Browser</li>
+<li>Presiona el boton de conectar<figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/2/conectTOR.png" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-xs.png 300w ,https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-sm.png 480w ,https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-md.png 768w ,https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-lg.png 1024w ,https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-xl.png 1360w ,https://leaksuabc.github.io/home/media/posts/2/responsive/conectTOR-2xl.png 1600w"  alt="" width="454" height="183"></figure></li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Copia la siguiente liga y pégala en el navegador <span style="text-decoration: underline;">p5pfevjfmsksbi22rh5yttc34cy545xo33clwilmurrclptzqioqmqad.onion</span></span></li>
+<li>Dale click a Presentar Denuncia. Lee el anuncio y da click en Proceder</li>
+<li>Revisa los 4 pasos y en el 4to contesta las preguntas</li>
+<li>Recuerda subir un archivo ZIP si tiene varias evidencias</li>
+<li>Al terminar preciona el boton Entregar</li>
+<li>Una vez enviada la denuncia obtendras un código con el cual podrás dar seguimiento o agregar comentarios a tu denuncia, copialo y guardalo en un lugar seguro </li>
 </ol>
 <h2>Envía denuncia en tu celular:</h2>
 <ol>
-<li>Una vez que lo abras, presiona el boton de Conect o Conectar</li>
+<li>Abre el navegador TOR y presiona el boton de Conect o Conectar</li>
 <li>Toca la sección para poner una dirección en la parte inferior</li>
 <li>Toca el boton de Scan y dale permiso a la app de usar tu cámara</li>
-<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/2/send-files.jpg" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-xs.jpg 300w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-sm.jpg 480w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-md.jpg 768w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-lg.jpg 1024w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-xl.jpg 1360w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-2xl.jpg 1600w"  alt="" width="400" height="400"></figure></li>
-<li>Permite a TOR que te envíe a <span style="text-decoration: underline;">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion</span></li>
-<li>Presiona Browse para adjuntar las evidencias en caso de contar con ellas. </li>
-<li>Escribe tu denuncia en el espacio de abajo y presiona el botón enviar. <br><br></li>
+<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/2/send-files-3.jpg" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-xs.jpg 300w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-sm.jpg 480w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-md.jpg 768w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-lg.jpg 1024w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-xl.jpg 1360w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-3-2xl.jpg 1600w"  alt="" width="358" height="358"></figure>
+<ul>
+<li>Tambien puedes copiar la dirección: <span style="text-decoration: underline;">p5pfevjfmsksbi22rh5yttc34cy545xo33clwilmurrclptzqioqmqad.onion</span></li>
+</ul>
+</li>
+<li>Permite a TOR que te envíe a <span style="text-decoration: underline;">p5pfevjfmsksbi22rh5yttc34cy545xo33clwilmurrclptzqioqmqad.onion</span></li>
+<li> Toca Presentar Denuncia. Lee el anuncio y presiona Proceder</li>
+<li>Revisa los 4 pasos y en el 4to contesta las preguntas</li>
+<li>Recuerda subir un archivo ZIP si tiene varias evidencias</li>
+<li>Al terminar preciona el boton Entregar</li>
+<li>Una vez enviada la denuncia obtendras un código con el cual podrás dar seguimiento o agregar comentarios a tu denuncia, copialo y guardalo en un lugar seguro </li>
 </ol>
 <p> </p>
 <p> </p>
