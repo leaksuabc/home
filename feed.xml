@@ -3,7 +3,7 @@
     <title>Leaks UABC</title>
     <link href="https://leaksuabc.github.io/home/feed.xml" rel="self" />
     <link href="https://leaksuabc.github.io/home" />
-    <updated>2022-04-05T18:03:20-07:00</updated>
+    <updated>2022-04-06T10:30:45-07:00</updated>
     <author>
         <name>unknown</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://leaksuabc.github.io/home/que-es-la-red-tor.html"/>
         <id>https://leaksuabc.github.io/home/que-es-la-red-tor.html</id>
 
-        <updated>2022-04-05T17:43:40-07:00</updated>
+        <updated>2022-04-06T10:01:37-07:00</updated>
             <summary>
                 <![CDATA[
                     La red TOR recibe su nobre por el Router Cebolla, de sus siglas en Ingles 'The Onion Router'. Su objetivo principal es el de crear una red de comunicaciones distribuida y superpuesta al Internet convencional, las páginas que puedes encontrar en la red TOR se&hellip;
@@ -44,9 +44,17 @@
         <link href="https://leaksuabc.github.io/home/enlace-con-medios.html"/>
         <id>https://leaksuabc.github.io/home/enlace-con-medios.html</id>
 
-        <updated>2022-04-05T17:13:45-07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-04-06T09:56:53-07:00</updated>
+            <summary>
+                <![CDATA[
+                    PROXIMAMENTE
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg--highlight  msg--warning align-center msg msg--info"><span style="color: #e03e2d;"><strong>PROXIMAMENTE</strong></span></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Protocolo de Denuncia</title>
@@ -56,15 +64,64 @@
         <link href="https://leaksuabc.github.io/home/protocolo-de-denuncia.html"/>
         <id>https://leaksuabc.github.io/home/protocolo-de-denuncia.html</id>
 
-        <updated>2022-04-05T18:03:20-07:00</updated>
+        <updated>2022-04-06T10:30:45-07:00</updated>
             <summary>
                 <![CDATA[
-                    Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para nosotros es importante que sepas que hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes revisarlo&hellip;
+                    Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para Leaks UABC es importante que sepas qué hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para nosotros es importante que sepas que hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes revisarlo <a href="https://leaksuabc.github.io/home/que-es-la-red-tor.html" target="_blank" rel="noopener noreferrer">aquí</a></p>
+                <p>Para garantizar el anonimato en la denuncia, hemos decidido utilizar OnionShare que utiliza la red TOR. El proceso es muy sencillo pero para Leaks UABC es importante que sepas qué hay detras del mismo. Si deseas saber más de como funciona la red TOR puedes revisarlo <a href="https://leaksuabc.github.io/home/que-es-la-red-tor.html" target="_blank" rel="noopener noreferrer">aquí</a></p>
+<h1>¿Cómo hacer una denuncia?</h1>
+<ol>
+<li>Para hacer tu denuncia, es importante comenzar con identificar : ¿Qué quieres denunciar? Es importante que sepas que este espacio, si bien es seguro y anonimo, no es un espacio destinado al bullying, acoso y hostigamiento. Por eso te pedimos que identifiques muy bien qué quieres denunciar. </li>
+<li>Ya que tienes identificado el qué, ahora te pedimos por favor revisar si existe alguna manera de resolver ese asunto en la institución. Esta plataforma surge de los vacios y complicaciones burocraticas para presentar denuncias en UABC, pero eso no quiere decir que no existan mecanismos. Así que ahora que sabes QUÉ quiere denunciar, procura primero revisar si puede hacer la denuncia de manera formal en UABC.
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Con el paso del tiempo y mientras sigamos recopilando denuncias, trataremos de agregar una sección para canalizar futuras denuncias mediante infograficos que expliquen las rutas y procesos institucionales de UABC.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ahora que tienes claro sobre qué quieres hacer una denuncia, te pedimos procures tener algun tipo de evidencia a la mano. Esto <strong>no es indisplensable</strong>, pero ayudará mucho para poder dar seguimiento. El material pueden ser correos, whatsapps, posts de redes sociales, DM´s, capturas de pantalla, fotos... o cualquier material que se pueda enviar de manera digital mediante nuestra plataforma anónima. 
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>En caso de ser varias evidencias, por favor envíalas como un archivo ZIP todas juntas</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ahora tómate el tiempo de redactar de manera clara una respuesta para las siguientes preguntas:
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>¿Qué o a quién quieres denunciar?</li>
+<li>Ya intentaste reportar/le frente a la UABC
+<ul>
+<li>En caso de haber reportado, ¿cuál fue la respuesta de UABC?</li>
+</ul>
+</li>
+<li>La situación que reportas ha sucedido en una ocación o en varias
+<ul>
+<li>En caso de ser varias, por favor elabora lo más posible</li>
+</ul>
+</li>
+<li>¿Has tenido consecuencias directas en tu trabajo/puesto, desempeño academico o similares como consecuencia de esta situación?
+<ul>
+<li>En caso de ser así por favor explica lo mejor posible</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Una vez que tengas la redacción y las evidencias, es necesario bajar el software TOR y entrar a la plataforma anónimizada para enviar tu texto y tu evidencia. </li>
+<li>Si deseas te contactemos en el futuro para algun seguimiento, cuando envíes el texto, deja ahí tu correo, en caso contrario no habrá nada que te conecte a la denuncia. </li>
+</ol>
+<p>Eso es todo, a continuación de dejamos los pasos necesarios para acceder a la red TOR y enviar tu mensaje:</p>
 <h2>Preparación del Software</h2>
 <ol>
 <li>Descarga TOR Browser para Windows, MAC, Linux o Android:   <a href="https://www.torproject.org/download/" target="_blank" rel="noopener noreferrer">https://www.torproject.org/download/</a> </li>
@@ -75,7 +132,7 @@
 <ol>
 <li>Una vez que lo abras</li>
 <li>Presiona el boton de conectar</li>
-<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Copia la siguiente liga y pégala en el navegador </span><span style="text-decoration: underline;">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); text-decoration: underline;"> </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); text-decoration: underline;"> </span></span></li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Copia la siguiente liga y pégala en el navegador </span><span style="text-decoration: underline;">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span></span></li>
 <li>Presiona Browse para adjuntar las evidencias en caso de contar con ellas. </li>
 <li>Escribe tu denuncia en el espacio de abajo y presiona el botón enviar. </li>
 </ol>
@@ -84,8 +141,8 @@
 <li>Una vez que lo abras, presiona el boton de Conect o Conectar</li>
 <li>Toca la sección para poner una dirección en la parte inferior</li>
 <li>Toca el boton de Scan y dale permiso a la app de usar tu cámara</li>
-<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/2/2022-04-05-17_51_26-OnionShare-QR-Code.png" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-xs.png 300w ,https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-sm.png 480w ,https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-md.png 768w ,https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-lg.png 1024w ,https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-xl.png 1360w ,https://leaksuabc.github.io/home/media/posts/2/responsive/2022-04-05-17_51_26-OnionShare-QR-Code-2xl.png 1600w"  alt="" width="313" height="324"></figure></li>
-<li>Permite a TOR que te envíe a <a href="http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion</a></li>
+<li>Escanea el siguiente QR <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/2/send-files.jpg" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-xs.jpg 300w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-sm.jpg 480w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-md.jpg 768w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-lg.jpg 1024w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-xl.jpg 1360w ,https://leaksuabc.github.io/home/media/posts/2/responsive/send-files-2xl.jpg 1600w"  alt="" width="400" height="400"></figure></li>
+<li>Permite a TOR que te envíe a <span style="text-decoration: underline;">http://bs5l5qa4mr6oawpuzj2da646zws2h6dwtudmvijcdavqwjydop5r7mad.onion</span></li>
 <li>Presiona Browse para adjuntar las evidencias en caso de contar con ellas. </li>
 <li>Escribe tu denuncia en el espacio de abajo y presiona el botón enviar. <br><br></li>
 </ol>
@@ -102,22 +159,24 @@
         <link href="https://leaksuabc.github.io/home/te-damos-la-bienvenida.html"/>
         <id>https://leaksuabc.github.io/home/te-damos-la-bienvenida.html</id>
 
-        <updated>2022-04-05T17:14:04-07:00</updated>
+        <updated>2022-04-06T09:57:29-07:00</updated>
             <summary>
                 <![CDATA[
-                    Te damos la más coordial bienvenida a este espacio seguro, diseñado para que cualquier persona pueda enviar de manera anónima información, quejas, comentarios o sugerencias referentes a la UABC. Aclaramos de manera Expresa que el presente sitio NO ESTA VINCULADO, AFILIADO O CONECTADO DE FORMA&hellip;
+                    Te damos la más coordial bienvenida a este espacio seguro, diseñado para que cualquier persona pueda enviar de manera anónima denuncias, quejas, comentarios o sugerencias referentes a la UABC, ya sean de personal administrativo, personal docente o alumnado. Aclaramos de manera Expresa que el presente&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/1/NOBACK.png" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xs.png 300w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-sm.png 480w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-md.png 768w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-lg.png 1024w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xl.png 1360w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-2xl.png 1600w"  alt="" width="678" height="365"></figure>
-<p class="align-left">Te damos la más coordial bienvenida a este <strong>espacio seguro</strong>, diseñado para que <strong>cualquier persona</strong> pueda enviar de manera <strong>anónima</strong> información, quejas, comentarios o sugerencias referentes a la UABC.</p>
+                <figure class="post__image align-center">                              <img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/1/NOBACK.png" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xs.png 300w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-sm.png 480w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-md.png 768w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-lg.png 1024w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xl.png 1360w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-2xl.png 1600w"  alt="" width="417" height="225"></figure>
+<p class="align-left">Te damos la más coordial bienvenida a este <strong>espacio seguro</strong>, diseñado para que <strong>cualquier persona</strong> pueda enviar de manera <strong>anónima</strong> denuncias, quejas, comentarios o sugerencias referentes a la UABC, ya sean de personal administrativo, personal docente o alumnado.</p>
 <p>Aclaramos de manera Expresa que el presente sitio NO ESTA VINCULADO, AFILIADO O CONECTADO DE FORMA ALGUNA CON LA UABC. Su unico proposito es el de funcionar como un mecanismo de denuncia.</p>
 <p>Para poder lograrlo, hemos diseñado un mecanismo que busca anonimizar ambos extremos en la presentación de denuncias, es decir que tanto quienes envian como quienes reciben información, deberán seguir un protocolo para evitar cualquier tipo de represalias con respecto a la información que aquí se colecte. </p>
-<p>De este modo, Leaks UABC estará funcionando durante los próximos meses, unicamente como un repositorio de denuncias, las cuales serán organizadas por el equipo detras de la plataforma para, idealmente, poder exponerlas de las maneras pertinentes en un futuro cercano. Dicho esto, estamos consientes que exite la posibilidad de recibir información de carácter sensible, de modo que dado el caso, se buscará tomar las acciones pertinentes. </p>
-<p>Sabemos que no es facil cambiar un sistema que se ha ido estropeando con el tiempo y las exigencias del mundo en el que vivimos, pero en Leaks UABC somos fieles creyentes de que para que haya un cambio, es necesario poder identificar claramente los problemas para poder traerlos a discusión.</p>
+<p>De este modo, Leaks UABC estará funcionando durante los próximos meses, unicamente como un repositorio de denuncias, las cuales serán organizadas por el equipo detras de la plataforma para, idealmente, poder exponerlas de las maneras pertinentes en un futuro cercano. </p>
+<p>Sabemos que no es facil cambiar un sistema que se ha ido estropeando con el tiempo y las exigencias del mundo en el que vivimos, pero Leaks UABC cree firmemente que para que haya un cambio, es necesario poder identificar claramente los problemas y ponerlos sobre la mesa para su discusión.</p>
+<p> </p>
 <p><a href="https://leaksuabc.github.io/home/protocolo-de-denuncia.html">¿QUIERES HACER UNA DENUNCIA? Sigue este enlace para revisar el protocolo de denuncia.</a></p>
-<p><a href="https://leaksuabc.github.io/home/enlace-con-medios.html">¿ERES UNA PERSONA QUE TRABAJA EN MEDIOS? ¿Te gustaría en algún momento difundir la información recopilada por nuestro equipo? Sigue este enlace para revisar el protocolo para contactarnos.</a></p>
+<p> </p>
+<p><a href="https://leaksuabc.github.io/home/enlace-con-medios.html">¿ERES UNA PERSONA QUE TRABAJA EN MEDIOS? ¿Te gustaría en algún momento difundir la información recopilada por nuestro equipo? Sigue este enlace para revisar el protocolo para contactarnos (Proximamente).</a></p>
 <p> </p>
 <p> </p>
             ]]>
