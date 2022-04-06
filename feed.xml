@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Leaks UABC</title>
+    <link href="https://leaksuabc.github.io/home/feed.xml" rel="self" />
+    <link href="https://leaksuabc.github.io/home" />
+    <updated>2022-04-05T17:14:50-07:00</updated>
+    <author>
+        <name>unknown</name>
+    </author>
+    <id>https://leaksuabc.github.io/home</id>
+
+    <entry>
+        <title>Enlace con Medios</title>
+        <author>
+            <name>unknown</name>
+        </author>
+        <link href="https://leaksuabc.github.io/home/enlace-con-medios.html"/>
+        <id>https://leaksuabc.github.io/home/enlace-con-medios.html</id>
+
+        <updated>2022-04-05T17:13:45-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Protocolo de Denuncia</title>
+        <author>
+            <name>unknown</name>
+        </author>
+        <link href="https://leaksuabc.github.io/home/protocolo-de-denuncia.html"/>
+        <id>https://leaksuabc.github.io/home/protocolo-de-denuncia.html</id>
+
+        <updated>2022-04-05T17:14:50-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Leaks UABC</title>
+        <author>
+            <name>unknown</name>
+        </author>
+        <link href="https://leaksuabc.github.io/home/te-damos-la-bienvenida.html"/>
+        <id>https://leaksuabc.github.io/home/te-damos-la-bienvenida.html</id>
+
+        <updated>2022-04-05T17:14:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Te damos la más coordial bienvenida a este espacio seguro, diseñado para que cualquier persona pueda enviar de manera anónima información, quejas, comentarios o sugerencias referentes a la UABC. Aclaramos de manera Expresa que el presente sitio NO ESTA VINCULADO, AFILIADO O CONECTADO DE FORMA&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://leaksuabc.github.io/home/media/posts/1/NOBACK.png" sizes="100vw" srcset="https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xs.png 300w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-sm.png 480w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-md.png 768w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-lg.png 1024w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-xl.png 1360w ,https://leaksuabc.github.io/home/media/posts/1/responsive/NOBACK-2xl.png 1600w"  alt="" width="678" height="365"></figure>
+<p class="align-left">Te damos la más coordial bienvenida a este <strong>espacio seguro</strong>, diseñado para que <strong>cualquier persona</strong> pueda enviar de manera <strong>anónima</strong> información, quejas, comentarios o sugerencias referentes a la UABC.</p>
+<p>Aclaramos de manera Expresa que el presente sitio NO ESTA VINCULADO, AFILIADO O CONECTADO DE FORMA ALGUNA CON LA UABC. Su unico proposito es el de funcionar como un mecanismo de denuncia.</p>
+<p>Para poder lograrlo, hemos diseñado un mecanismo que busca anonimizar ambos extremos en la presentación de denuncias, es decir que tanto quienes envian como quienes reciben información, deberán seguir un protocolo para evitar cualquier tipo de represalias con respecto a la información que aquí se colecte. </p>
+<p>De este modo, Leaks UABC estará funcionando durante los próximos meses, unicamente como un repositorio de denuncias, las cuales serán organizadas por el equipo detras de la plataforma para, idealmente, poder exponerlas de las maneras pertinentes en un futuro cercano. Dicho esto, estamos consientes que exite la posibilidad de recibir información de carácter sensible, de modo que dado el caso, se buscará tomar las acciones pertinentes. </p>
+<p>Sabemos que no es facil cambiar un sistema que se ha ido estropeando con el tiempo y las exigencias del mundo en el que vivimos, pero en Leaks UABC somos fieles creyentes de que para que haya un cambio, es necesario poder identificar claramente los problemas para poder traerlos a discusión.</p>
+<p><a href="https://leaksuabc.github.io/home/protocolo-de-denuncia.html">¿QUIERES HACER UNA DENUNCIA? Sigue este enlace para revisar el protocolo de denuncia.</a></p>
+<p><a href="https://leaksuabc.github.io/home/enlace-con-medios.html">¿ERES UNA PERSONA QUE TRABAJA EN MEDIOS? ¿Te gustaría en algún momento difundir la información recopilada por nuestro equipo? Sigue este enlace para revisar el protocolo para contactarnos.</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
